@@ -1,5 +1,5 @@
 # Snakelike
-A dynamic, multiplayer Snake game.
+A dynamic, multiplayer Snake game. Multiple AIs with differing movement sets compete in a board for survival.
 
 A Snake game made with diversity in mind; i.e. it's easy to add new Snake and Snake AIs to the game.
 
