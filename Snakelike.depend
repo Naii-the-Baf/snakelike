@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/files.cpp
+	<cstdlib>
+	<filesystem>
+	<stdexcept>
+	"files.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/files.h
+	<cstdio>
+	<string>
+	<fstream>
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/terminal.cpp
+	<algorithm>
+	"terminal.h"
+	<windows.h>
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/terminal.h
+	<string>
+	"common_types.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/common_types.h
+	<cstdint>
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/main.cpp
+	<algorithm>
+	<chrono>
+	<cstdio>
+	<filesystem>
+	<stdexcept>
+	<string>
+	<thread>
+	"common_types.h"
+	"config.h"
+	"files.h"
+	"main.h"
+	"snake_map.h"
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/config.cpp
+	"config.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/config.h
+	<array>
+	<functional>
+	<string>
+	<unordered_map>
+	"common_types.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/main.h
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/snake.cpp
+	<algorithm>
+	<chrono>
+	<utility>
+	<thread>
+	"common.h"
+	"snake.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/snake.h
+	<utility>
+	<vector>
+	"common_types.h"
+	"config.h"
+	"snake_ai.h"
+	"snake_map.h"
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/snake_map.cpp
+	<chrono>
+	<functional>
+	<random>
+	<utility>
+	<thread>
+	"common.h"
+	"terminal.h"
+	"snake.h"
+	"snake_ai.h"
+	"snake_map.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/snake_map.h
+	<array>
+	<mutex>
+	<queue>
+	<utility>
+	<vector>
+	"common_types.h"
+	"config.h"
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/snake_ai.cpp
+	<queue>
+	<vector>
+	"common.h"
+	"snake_ai.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/snake_ai.h
+	<utility>
+	<vector>
+	"common_types.h"
+	"snake_map.h"
+
+1637168885 source:/media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/common.cpp
+	"common.h"
+
+1637168885 /media/naii/Data/Documents/ProyectosUP/C-CPP/sem3/Snakelike/common.h
+	<random>
+
